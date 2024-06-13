@@ -1,0 +1,14 @@
+D:\Projects\pract\NameGenerator\NameGenerator\NameGenerator\bin\Debug\net8.0\NameGenerator.exe
+D:\Projects\pract\NameGenerator\NameGenerator\NameGenerator\bin\Debug\net8.0\NameGenerator.deps.json
+D:\Projects\pract\NameGenerator\NameGenerator\NameGenerator\bin\Debug\net8.0\NameGenerator.runtimeconfig.json
+D:\Projects\pract\NameGenerator\NameGenerator\NameGenerator\bin\Debug\net8.0\NameGenerator.dll
+D:\Projects\pract\NameGenerator\NameGenerator\NameGenerator\bin\Debug\net8.0\NameGenerator.pdb
+D:\Projects\pract\NameGenerator\NameGenerator\NameGenerator\obj\Debug\net8.0\NameGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\pract\NameGenerator\NameGenerator\NameGenerator\obj\Debug\net8.0\NameGenerator.AssemblyInfoInputs.cache
+D:\Projects\pract\NameGenerator\NameGenerator\NameGenerator\obj\Debug\net8.0\NameGenerator.AssemblyInfo.cs
+D:\Projects\pract\NameGenerator\NameGenerator\NameGenerator\obj\Debug\net8.0\NameGenerator.csproj.CoreCompileInputs.cache
+D:\Projects\pract\NameGenerator\NameGenerator\NameGenerator\obj\Debug\net8.0\NameGenerator.dll
+D:\Projects\pract\NameGenerator\NameGenerator\NameGenerator\obj\Debug\net8.0\refint\NameGenerator.dll
+D:\Projects\pract\NameGenerator\NameGenerator\NameGenerator\obj\Debug\net8.0\NameGenerator.pdb
+D:\Projects\pract\NameGenerator\NameGenerator\NameGenerator\obj\Debug\net8.0\NameGenerator.genruntimeconfig.cache
+D:\Projects\pract\NameGenerator\NameGenerator\NameGenerator\obj\Debug\net8.0\ref\NameGenerator.dll
